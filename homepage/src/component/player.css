@@ -1,0 +1,6 @@
+
+video{
+    width: 80%;
+    height: calc(100% - 200px);
+    margin-top: 30px;
+}
